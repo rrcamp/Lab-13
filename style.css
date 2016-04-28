@@ -1,0 +1,16 @@
+/* colours used: light green #c0cfc4 ; mid taupe #ab9683 ; light mauve #d1ccc9 ; navy #2e363d*/
+
+.body{
+  background-color: #ab9683;
+  color: #2e363d;
+}
+
+.list {
+  background-color: #d1ccc9;
+}
+
+.navbar {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
